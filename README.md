@@ -130,6 +130,49 @@
 </div>
 
 </fieldset>
+<html>
+    <head>
+        <title>
+            Calendar Elements
+        </title>
+    </head>
+    <body>
+        <form action="">
+            <fieldset>
+                <legend>
+                    Calendar
+                </legend>
+                Time : <input type="time" name="time"/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                Date : <input type="date" name="date"/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                Date and Time : <input type="datetime-local" name=""/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                Month : <input type="month" name="month"/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                Week : <input type="week" name="week"/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                Range : <input type="range" name=""/>
+                
+            </fieldset>
+        </form>
+    </body>
+</html>
     </form>
 </body>
 </html>
