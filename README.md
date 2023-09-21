@@ -1,5 +1,4 @@
 <html lang="en">
-<br/><br/><br/><br/><br/><br/><br/><br/>
     <html>
     <head>
         <title>Text CSS</title>
@@ -33,7 +32,7 @@
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia nostrum illo quae. Tempora quis atque quisquam quidem. Possimus odio ab sequi quas voluptate nemo, cupiditate labore? Blanditiis porro expedita harum.
         </p>
     </body>
-</html>
+</html><br/><br/><br/><br/><br/><br/><br/><br/>
 
     <head>
     <meta charset="UTF-8">
