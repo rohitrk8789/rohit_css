@@ -178,4 +178,38 @@
 </body>
 </html>
 </body>
+<html>
+    <head>
+        <title>Text CSS</title>
+        <style type="text/css">
+            .text{
+                width: 500px;
+                height: 200px;
+                background-color: #ff0000;
+                font-size: 50px;
+                color: #ffff00;
+                font-weight: bold;
+                font-style: oblique;
+                text-transform: uppercase;
+            }
+            .paragraph{
+                width: 1000px;
+                height: 400px;
+                background-color: #0000ff;
+                color: white;
+                font-size: 30px;
+                text-align: justify;
+            }
+        </style>
+        
+    </head>
+    <body>
+        <div class="text">
+            welcome to rohit's website
+        </div>
+        <p class="paragraph">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia nostrum illo quae. Tempora quis atque quisquam quidem. Possimus odio ab sequi quas voluptate nemo, cupiditate labore? Blanditiis porro expedita harum.
+        </p>
+    </body>
+</html>
 </html>
